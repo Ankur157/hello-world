@@ -1,2 +1,2 @@
 # hello-world
-I am a beginne
+I am a beginner
